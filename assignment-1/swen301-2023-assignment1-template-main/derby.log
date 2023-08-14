@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Aug 11 16:33:11 NZST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0189-e2de-ada7-00000f4a4e80 
+on database directory memory:/Users/ilyamashkov/Desktop/swen301/Assignment1/swen301-2023-assignment1-template-main/studentdb with class loader org.springframework.boot.loader.LaunchedURLClassLoader@4e50df2e 
+Loaded from jar:file:/Users/ilyamashkov/Desktop/swen301/Assignment1/swen301-2023-assignment1-template-main/target/studentDB-spring-boot.jar!/BOOT-INF/lib/derby-10.14.2.0.jar!/
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.2+8-LTS-86
+user.dir=/Users/ilyamashkov/Desktop/swen301/Assignment1/swen301-2023-assignment1-template-main
+os.name=Mac OS X
+os.arch=x86_64
+os.version=13.3.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
